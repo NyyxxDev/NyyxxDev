@@ -3,7 +3,28 @@
 > *"Por mais que o dia tente me derrubar, a noite sempre me dá o conforto, e a lua sempre ilumina minhas reflexões."*
 
 ---
+### 🛠️ Hard Skills & Tecnologias
 
+#### 🎨 Desenvolvimento Front-end
+![HTML5](https://img.shields.io/badge/HTML5-Semântico-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+* **HTML5 Semântico:** Estruturação limpa, acessível e otimizada para SEO.
+* **CSS3:** Estilização moderna, responsividade e layout flexível.
+* **JavaScript & TypeScript:** Desenvolvimento de lógicas dinâmicas, tipagem estática e código mais seguro e escalável.
+
+---
+
+#### ⚙️ Desenvolvimento Back-end
+![Java](https://img.shields.io/badge/Java-Projetos_Escaláveis-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+* **Java:** Minha principal escolha para arquiteturas robustas, orientadas a objetos e projetos de longo prazo.
+* **Python:** Utilizado para automações, rotinas rápidas e solução prática de problemas.
+
+---
 ### 🌌 Sobre Mim
 
 Olá! Pode me chamar de **Nyyxx**. Se você está se perguntando quem eu sou, deixa eu me apresentar:
